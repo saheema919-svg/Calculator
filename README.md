@@ -39,7 +39,6 @@ Calculator/
 
 ## 📸 Preview
 
-(Add a screenshot of your calculator here after completing the project.)
 
 ## 👩‍💻 Author
 
