@@ -38,6 +38,7 @@ Calculator/
 - Understand arithmetic operations and user input handling.
 
 ## 📸 Preview
+<img width="1920" height="915" alt="screenshot" src="https://github.com/user-attachments/assets/921a2862-29b0-4e10-9821-6e6466084b3f" />
 
 
 ## 👩‍💻 Author
