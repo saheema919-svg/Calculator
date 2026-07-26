@@ -39,7 +39,7 @@ Calculator/
 
 ## 📸 Preview
 
-<img src="assets/screenshot.png" width="500">
+<img src="screenshot.png" width="500">
 
 ## 👩‍💻 Author
 
